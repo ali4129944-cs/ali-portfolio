@@ -55,10 +55,4 @@ No additional setup is required.
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE) (add a LICENSE file if you wish to specify a license).
-
----
-
 > Designed and developed by Ali Iftikhar.
