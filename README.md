@@ -44,8 +44,6 @@ A professional and modern personal portfolio website built with HTML and CSS.
    ```
 3. **Open `index.html` in your web browser.**
 
-No additional setup is required.
-
 ---
 
 ## 🛠️ Technologies Used
