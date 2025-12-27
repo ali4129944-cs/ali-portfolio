@@ -1,22 +1,16 @@
 # Ali Portfolio
 
-A professional and modern personal portfolio website built with HTML and CSS.
-
----
-
-## 📄 Description
-
-**Ali Portfolio** is a responsive and visually appealing personal website designed to showcase your skills, projects, and contact information. It provides a clean and organized layout to highlight your professional profile and achievements.
+A personal portfolio website built with HTML and CSS.
 
 ---
 
 ## ✨ Features / Key Sections
 
 - **Home:** Welcome section with a brief introduction.
-- **About:** Personal background and professional summary.
-- **Skills:** List of technical and soft skills.
-- **Projects:** Portfolio of completed or ongoing projects.
-- **Contact:** Contact form and details for easy communication.
+- **About:** Personal background.
+- **Skills:** List of skills.
+- **Projects:** Portfolio of projects.
+- **Contact:** Contact form for communication.
 
 ---
 
